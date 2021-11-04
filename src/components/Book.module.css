@@ -1,0 +1,17 @@
+.book {
+    padding: 10px;
+    display: flex;
+    border: 1px solid grey;
+    margin: 0 0 10px;
+    border-radius: 5px;
+    align-items: center;
+}
+
+.id {
+    margin-right: 10px;
+}
+
+button {
+    padding: 5px;
+    margin-left: auto;
+}
